@@ -35,10 +35,11 @@ Feel free to reach out for collaboration, knowledge exchange, or simply a good t
 <a href="https://leetcode.com/Bharathwaj5221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TVL Bharathwaj" height="30" width="40" /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
+<h3 align="left">Statistics : </h3>
 
-<a href="http://www.github.com/Bharathwaj7"><img src="https://github-readme-stats.vercel.app/api?username=Bharathwaj7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Bharathwaj7's GitHub stats" /></a>
 
-<a href="http://www.github.com/Bharathwaj7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathwaj7&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathwaj7&show_icons=true&locale=en&layout=compact" alt="TVL Bharathwaj" /></p>
 
-<a href="https://github.com/Bharathwaj7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathwaj7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathwaj7&show_icons=true&locale=en" alt="TVL Bharathwaj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathwaj7&" alt="TVL Bharathwaj" /></p>
