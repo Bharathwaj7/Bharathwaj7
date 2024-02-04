@@ -38,8 +38,10 @@ Feel free to reach out for collaboration, knowledge exchange, or simply a good t
 <h3 align="left">Statistics : </h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathwaj7&show_icons=true&locale=en&layout=compact" alt="TVL Bharathwaj" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathwaj7&show_icons=true&locale=en" alt="TVL Bharathwaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathwaj7&" alt="TVL Bharathwaj" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathwaj7&show_icons=true&locale=en&layout=compact" alt="TVL Bharathwaj" /></p>
