@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-🚀 Aspiring Computer Science Student | Passionate about AI/ML | Figma Enthusiast 🤖✨ Hello there! 👋 I'm T V L Bharathwaj, a highly motivated Computer Science student with a passion for the exciting realms of Artificial Intelligence and Machine Learning. 🌐💻 🌱 Currently honing my skills in the ever-evolving field of AI/ML, I thrive on the challenges that come with exploring innovative solutions and pushing the boundaries of technology. 🚀 💡 What sets me apart? In addition to my academic pursuits, I bring hands-on experience in UI/UX design through proficiency in Figma. 🎨 This unique blend of technical prowess and design sensibility enables me to approach problems with a holistic perspective, creating solutions that are not only efficient but also user-friendly. Feel free to reach out for collaboration, knowledge exchange, or simply a good tech chat! 🚀🔗
+🚀 Aspiring Computer Science Student | Passionate about AI/ML | Figma Enthusiast 🤖✨ 
+
+Hello there! 👋 I'm T V L Bharathwaj, a highly motivated Computer Science student with a passion for the exciting realms of Artificial Intelligence and Machine Learning. 🌐💻 🌱 Currently honing my skills in the ever-evolving field of AI/ML, I thrive on the challenges that come with exploring innovative solutions and pushing the boundaries of technology. 🚀 
+
+💡 What sets me apart? In addition to my academic pursuits, I bring hands-on experience in UI/UX design through proficiency in Figma. 🎨 This unique blend of technical prowess and design sensibility enables me to approach problems with a holistic perspective, creating solutions that are not only efficient but also user-friendly.
+
+Feel free to reach out for collaboration, knowledge exchange, or simply a good tech chat! 🚀🔗
 
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo0bXkzc241d3R4emwxNjFtbWNlYmJmZHNlcTRtZXZza2EzbGhueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
